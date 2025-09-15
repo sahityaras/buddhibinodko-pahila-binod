@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <meta property="dcterms:modified">2025-08-30T21:12:35Z</meta>
+    <meta property="dcterms:modified">2025-09-15T04:19:01Z</meta>
     <meta name="generator" content="Ebook-lib 0.19.0"/>
     <dc:identifier id="id">20250830211235</dc:identifier>
     <dc:title>बुद्धिविनोदको पहिला विनोद</dc:title>
@@ -9,18 +9,17 @@
     <dc:creator id="creator">लेखनाथ पौड्याल</dc:creator>
     <dc:date>2025-08-30T21:12:35Z</dc:date>
     <dc:publisher>Sahityaras</dc:publisher>
-    <source_publisher>मञ्जरी पब्लिकेशन</source_publisher>
-    <source_edition>पहिलो</source_edition>
-    <source_year>२०७३</source_year>
-    <source_isbn>978-9937-9162-0-2</source_isbn>
-    <book_about>बुद्धिविनोदमा जीवनसम्बन्धी रहस्यलाई लिएर उनले सात प्रश्न स्थापित गरे। ती सात प्रश्नहरू राख्तै सात बुद्धिविनोद लेख्ने उनले अठोट गरेर 'कहाँ थियो वास ?' भन्ने प्रश्नलाई लिएर उनले बुद्धिविनोदको प्रथम विनोद १९९४ तयार पारे। यो बुद्धिविनोद निकै खारिएको छ र बुद्धि र मनबीचको द्वन्द्व यहाँ प्रस्तुत छ । मनतृष्णामा लुटपुटिन्छ र बाहिरी जगत्‌सँग सम्बद्ध रहन्छ, बुद्धि विवेकमा रमाउँछ र आध्यात्मिक चिन्तन गर्दै आत्मातर्फ उन्मुख हुन्छ।&#13;
-–चेतनारायण लामिछाने</book_about>
-    <book_genre>खण्डकाव्य</book_genre>
-    <book_slug>buddhibinodko-pahila-binod</book_slug>
+    <meta name="source_publisher" content="मञ्जरी पब्लिकेशन"></meta>
+    <meta name="source_edition" content="पहिलो"></meta>
+    <meta name="source_year" content="२०७३"></meta>
+    <meta name="source_isbn" content="978-9937-9162-0-2"></meta>
+    <meta name="book_about" content="बुद्धिविनोदमा जीवनसम्बन्धी रहस्यलाई लिएर उनले सात प्रश्न स्थापित गरे। ती सात प्रश्नहरू राख्तै सात बुद्धिविनोद लेख्ने उनले अठोट गरेर 'कहाँ थियो वास ?' भन्ने प्रश्नलाई लिएर उनले बुद्धिविनोदको प्रथम विनोद १९९४ तयार पारे। यो बुद्धिविनोद निकै खारिएको छ र बुद्धि र मनबीचको द्वन्द्व यहाँ प्रस्तुत छ । मनतृष्णामा लुटपुटिन्छ र बाहिरी जगत्‌सँग सम्बद्ध रहन्छ, बुद्धि विवेकमा रमाउँछ र आध्यात्मिक चिन्तन गर्दै आत्मातर्फ उन्मुख हुन्छ।&#13;&#10;–चेतनारायण लामिछाने"></meta>
+    <meta name="book_genre" content="खण्डकाव्य"></meta>
+    <meta name="book_slug" content="buddhibinodko-pahila-binod"></meta>
     <meta name="cover" content="cover-img"></meta>
   </metadata>
   <manifest>
-    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
     <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
     <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
     <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
